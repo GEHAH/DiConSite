@@ -16,11 +16,11 @@ We propose DiConSite, a unified deep learning framework based on a contrastive l
 
 The initial model interface is as follows, and you can enter the training page by clicking "Model Training" in the upper left corner.
 
-<img scr="https://github.com/GEHAH/DiConSite/blob/main/figs/F2.png" alt='F2'>
+<img scr="figs/F2.png" alt='F2'>
 
 We want to construct a unified model architecture that is suitable for multiple locus prediction, so we provide a simple training interface. 
 
-<img scr="https://github.com/GEHAH/DiConSite/blob/main/figs/F3.png" alt='F3'>
+<img scr="figs/F3.png" alt='F3'>
 
 The user needs to prepare the PDB structure file (predicted structure or real structure) of the protein in advance, the semantic features of each protein sequence obtained by ESM, the sample file (.pkl), and the file location where the model weights are saved. By clicking on "Start training", you can start running. The "Training log" records the training process.
 
