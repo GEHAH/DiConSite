@@ -11,6 +11,9 @@ We propose DiConSite, a unified deep learning framework based on a contrastive l
 ### News
 
 ## 🚀 How to use it?
+### Dataset
+Training data is available at the following link
+https://drive.google.com/drive/folders/1zxgM0vDep1Hzb7M2kDsG-oAYjzvFEbyE?usp=drive_link
 
 ### Training model
 
