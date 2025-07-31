@@ -4,7 +4,7 @@ The code will be released before June
 
 We propose DiConSite, a unified deep learning framework based on a contrastive learning-enhanced self-distillation strategy, achieving precise prediction of multiple types of molecular binding sites through the integration of E(n)-equivariant graph neural networks (EGNN). DiConSite combines semantic representations from protein language models (PLM) with geometric features of protein structures via EGNN, enabling effective structure-aware modeling. At the model architecture level, we design a function-driven contrastive learning self-distillation structure that, through latent space similarity constraints, encourages similar binding sites to form compact clusters, enhancing the representational discriminability of the teacher model. Additionally, the deep teacher network supervises the shallow student network, improving the model's generalization ability and robustness. Experimental results show that DiConSite outperforms the latest methods in predicting protein, peptide, DNA, and RNA binding sites. 
 
-<img src="figs/F1.png" alt='logo'>
+<img src="figs/main1.png" alt='logo'>
 
 ## 📑 Results
 
